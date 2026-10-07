@@ -2,6 +2,9 @@
 
 A classic Rock Paper Scissors game implemented in Python with a command-line interface.
 
+<p align="center"><img src="docs/images/terminal.png" alt="Terminal session of Rock Paper Scissors"></p>
+<p align="center"><sub>Four rounds against the computer, then Q to quit</sub></p>
+
 ## 📋 Overview
 
 A simple and fun implementation of the classic Rock Paper Scissors game where you can play against the computer.
