@@ -100,3 +100,7 @@ This project is open source and available under the MIT License.
 ---
 
 Built with ❤️ by [Scarface96](https://github.com/Scarface96)
+
+## About This Project
+
+A Python command-line implementation of the classic Rock Paper Scissors game. It demonstrates programming fundamentals such as loops, conditional logic, randomisation, input handling and maintaining application state across repeated rounds.
